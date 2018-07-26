@@ -1,0 +1,6 @@
+.pioenvs
+.piolibdeps
+.vscode
+build
+.directory
+__pycache__
